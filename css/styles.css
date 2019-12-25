@@ -6,5 +6,7 @@ h1{
 
 .intro{
     font-family: Baloo;
-    font-size: xx-large;
+    /* font-size: xx-large; */
 }
+@media (min-width:500px){/*Class name*//*properties*/}
+@media (max-width:499px){/*Class name*//*properties*/}
