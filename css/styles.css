@@ -3,6 +3,10 @@ h1{
     font-weight: bolder;
     box-sizing: border-box;
 }
+.hh{
+  border: 2px solid red;
+  border-radius: 8px;#
+}
 * {
   box-sizing: border-box;
   height: auto;
@@ -56,12 +60,6 @@ padding-top: 350px;
 }
 
 /* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
-}
 #imeg{
   height: 100%;
 }
